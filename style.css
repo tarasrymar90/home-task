@@ -12,7 +12,7 @@ text-transform: uppercase;
 font-family: "Montserrat", sans-serif;
 font-weight: 500;
 font-size: 16px;
-color: rgb(255, 255, 255);
+color: #6bc0e7;
 text-decoration: none;
 }
 
@@ -41,11 +41,12 @@ header {
 }
 
 .nav-links li, a:hover {
-    color: #6bc0e7;
+    color: #ffffff;
 }
 
 button {
     padding: 9px 25px;
+    color: #ffffff;
     background-color: #6bc0e7;
     border: none;
     border-radius: 50px;
@@ -81,3 +82,34 @@ button:hover {
     font-size: 20px;
     color: #fdd142;
 }
+
+.block {
+    margin: 80px;
+    padding-left: 30px;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+}
+.block h3 {
+    color: #fdd142;
+    padding: 0 30px
+}
+
+#contact {
+    margin: 80px;
+    padding-left: 30px;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #ffffff;
+
+}
+ 
+
